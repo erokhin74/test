@@ -1,2 +1,2 @@
 # test
-Git studing
+Git studing by GitHub Guides
